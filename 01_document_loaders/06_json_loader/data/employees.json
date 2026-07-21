@@ -1,0 +1,37 @@
+[
+    {
+        "employee_id": 101,
+        "name": "Rahul Sharma",
+        "department": "Engineering",
+        "role": "Software Engineer",
+        "location": "Hyderabad"
+    },
+    {
+        "employee_id": 102,
+        "name": "Priya Reddy",
+        "department": "Human Resources",
+        "role": "HR Manager",
+        "location": "Bangalore"
+    },
+    {
+        "employee_id": 103,
+        "name": "Arjun Kumar",
+        "department": "Engineering",
+        "role": "AI Engineer",
+        "location": "Hyderabad"
+    },
+    {
+        "employee_id": 104,
+        "name": "Neha Singh",
+        "department": "Finance",
+        "role": "Financial Analyst",
+        "location": "Mumbai"
+    },
+    {
+        "employee_id": 105,
+        "name": "Vikram Rao",
+        "department": "Data Science",
+        "role": "Data Scientist",
+        "location": "Bangalore"
+    }
+]
