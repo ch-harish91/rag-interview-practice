@@ -1,0 +1,11 @@
+[project]
+name = "05-html-header-text-splitter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "bs4>=0.0.2",
+    "langchain-text-splitters>=1.1.2",
+]
