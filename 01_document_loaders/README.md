@@ -1591,32 +1591,6 @@ Production debugging requires understanding the entire dependency chain rather t
 
 # 33. Next Learning Topics
 
-```text
-✅ Document Loading
-        ↓
-⬜ Document Objects — Deep Dive
-        ↓
-⬜ Text Splitters
-        ↓
-⬜ Chunking Strategies
-        ↓
-⬜ Embeddings
-        ↓
-⬜ Vector Databases
-        ↓
-⬜ Indexing Pipeline
-        ↓
-⬜ Retrieval Pipeline
-        ↓
-⬜ Prompt Construction
-        ↓
-⬜ Basic RAG
-        ↓
-⬜ Advanced Retrieval
-        ↓
-⬜ Production RAG
-```
-
 ---
 
 # 34. Future Topics
@@ -3693,7 +3667,6 @@ Focused on:
 - LLM Applications
 - Production RAG Engineering
 - Technical Interview Preparation
-
 
 # RAG Interview Practice
 
